@@ -178,4 +178,7 @@ function plytelesPlotis($ilgis, $plotis, $tarpas = 0)
     return ($ilgis + $plotis) * ($plotis + $tarpas);
 }
 
-echo 'Reikalinga plyteliu:' . plytelesbaseinui(2500, 1000, 300);
+echo 'Reikalinga plyteliu:' . plytelesbaseinui(2500, 1000, 300). '<br>';
+
+
+$string2 = 
